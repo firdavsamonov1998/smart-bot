@@ -1,0 +1,12 @@
+
+f	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â×‡
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷ÎÕò
+[
+java:S2259="EA "NullPointerException" could be thrown; "outline" is nullable here.(â×‡
+V	java:S125<"<This block of commented-out lines of code should be removed.(ÔÀıÙøÿÿÿÿ
+`
+java:S1858="J"outline" is already a string, there's no need to call "toString()" on it.(â×‡
+\
+java:S1128"FRemove this unused import 'org.checkerframework.checker.units.qual.C'.(ÏıÁÊ
+s
+java:S1128"XRemove this unused import 'org.telegram.telegrambots.meta.api.methods.send.SendMessage'.(œ™âıÿÿÿÿ

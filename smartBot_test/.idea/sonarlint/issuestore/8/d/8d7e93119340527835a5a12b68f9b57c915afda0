@@ -1,0 +1,24 @@
+
+_
+java:S11925"IDefine a constant instead of duplicating this literal "Tashkent" 3 times.(œóÒî
+k	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¥Õùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã««Ôşÿÿÿÿ
+m	java:S116"SRename this field "temp_min" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å–ò½ÿÿÿÿÿ
+m	java:S116"SRename this field "temp_max" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Áß„üÿÿÿÿ
+j
+java:S1450"TRemove the "cloud" field and declare it as a local variable in the relevant methods.(æ‹¥ö
+h
+java:S1450#"RRemove the "deg" field and declare it as a local variable in the relevant methods.(„±Œœ
+n
+java:S1450"SRemove the "main" field and declare it as a local variable in the relevant methods.(ş™ïşÿÿÿÿ
+l
+java:S1450*"VRemove the "weather" field and declare it as a local variable in the relevant methods.(‹àËô
+n
+java:S1450+"SRemove the "wind" field and declare it as a local variable in the relevant methods.(³áƒşÿÿÿÿ
+z
+java:S1149v"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ôô¡Óüÿÿÿÿ
+c	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÄË™
+?
+java:S1068")Remove this unused "cloud" private field.(æ‹¥ö
+=
+java:S1068#"'Remove this unused "deg" private field.(„±Œœ
